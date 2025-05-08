@@ -40,6 +40,7 @@ Foi utilizada a lista gerada pelo crawler para realizar a busca manual dos artig
 🔗 [Link para o drive](https://drive.google.com/drive/folders/1WaGDb_3rEzs38MXeRXYyVVB7b0M0CBVC)
 
 Para auxiliar na busca dos artigos no drive, utilizamos o seguinte arquivo para encontrar os artigos por tema:
+
 🔗 [Link para o arquivo](https://drive.google.com/file/d/18VVKUG2H9K-i3GeqGUtburhT-Ez1XJwA/view)
 
 Alguns artigos que não estavam na lista do crowler também foram incluídos.
